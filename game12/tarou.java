@@ -20,15 +20,16 @@ public class tarou extends Actor
         move(1);
     }
     if( Greenfoot.isKeyDown( "left" ) ){
-        setRotation(180);
-        move(1);
+        setRotation(0);
+        move(-1);
     }
+   
     if( Greenfoot.isKeyDown( "up" ) ){
-        setRotation(90);
+        setRotation(-90);
         move(1);
     }
     if( Greenfoot.isKeyDown( "down" ) ){
-        setRotation(270);
+        setRotation(90);
         move(1);
     }
 }    
