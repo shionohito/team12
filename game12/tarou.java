@@ -15,9 +15,6 @@ public class tarou extends Actor
     public void act() 
     {
         // Add your action code here.
-<<<<<<< HEAD
-        
-=======
         if( Greenfoot.isKeyDown( "right" ) ){
         setRotation(0);
         move(1);
@@ -35,6 +32,5 @@ public class tarou extends Actor
         setRotation(90);
         move(1);
     }
->>>>>>> 46791cc2aa05e809b1ebf2c85144e5169741a05e
 }    
 }
