@@ -3,6 +3,7 @@ class.cafe.image=cafe.jpg
 class.classroom.image=\u6559\u5BA4\u306E\u524D\u306E\u65B9\uFF08\u591C\u30FB\u7167\u660EOFF\uFF09.jpg
 class.librarry.image=\u56F3\u66F8\u5BA4\uFF08\u591C\u30FB\u7167\u660EOFF\uFF09.jpg
 class.tarou.image=man01.png
+<<<<<<< HEAD
 dependency1.from=MyWorld
 dependency1.to=tarou
 dependency1.type=UsesDependency
@@ -10,6 +11,12 @@ editor.fx.0.height=739
 editor.fx.0.width=816
 editor.fx.0.x=572
 editor.fx.0.y=96
+=======
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+>>>>>>> f370433b0fbe72cc968bb321f6c65df1c4898d3b
 height=745
 package.numDependencies=1
 package.numTargets=5
