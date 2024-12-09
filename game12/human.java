@@ -14,20 +14,20 @@ public class human extends Actor
      */
     public void act() 
     {
-        if( Greenfoot.isKeyDown( "right" ) ){
+        if( Greenfoot.isKeyDown( "d" ) ){
         setRotation(0);
         move(3);
     }
-    if( Greenfoot.isKeyDown( "left" ) ){
+    if( Greenfoot.isKeyDown( "a" ) ){
         setRotation(0);
         move(-3);
     }
    
-    if( Greenfoot.isKeyDown( "up" ) ){
+    if( Greenfoot.isKeyDown( "w" ) ){
         setRotation(-90);
         move(3);
     }
-    if( Greenfoot.isKeyDown( "down" ) ){
+    if( Greenfoot.isKeyDown( "s" ) ){
         setRotation(90);
         move(3);
     }
