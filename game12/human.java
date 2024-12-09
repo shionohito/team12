@@ -14,6 +14,7 @@ public class human extends Actor
      */
     public void act() 
     {
+        
         if( Greenfoot.isKeyDown( "d" ) ){
         setRotation(0);
         move(3);
@@ -22,15 +23,6 @@ public class human extends Actor
         setRotation(0);
         move(-3);
     }
-   
-    if( Greenfoot.isKeyDown( "w" ) ){
-        setRotation(-90);
-        move(3);
-    }
-    if( Greenfoot.isKeyDown( "s" ) ){
-        setRotation(90);
-        move(3);
-    }
-        
-    }    
 }
+}
+
