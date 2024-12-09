@@ -1,12 +1,18 @@
 #Greenfoot project file
 class.cafe.image=cafe.jpg
 class.classroom.image=\u6559\u5BA4\u306E\u524D\u306E\u65B9\uFF08\u591C\u30FB\u7167\u660EOFF\uFF09.jpg
+<<<<<<< HEAD
 class.human.image=person.png
 class.librarry.image=\u5E02\u7ACB\u56F3\u66F8\u9928.jpg
+=======
+class.human.image=student.png
+class.librarry.image=\u56F3\u66F8\u5BA4\uFF08\u591C\u30FB\u7167\u660EOFF\uFF09.jpg
+>>>>>>> 52a108f931e42b5de14703e7efb40c63a49b8adf
 class.teacher1.image=teacher-1.png
 dependency1.from=cafe
 dependency1.to=human
 dependency1.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -14,6 +20,15 @@ editor.fx.0.y=0
 height=1047
 package.numDependencies=1
 package.numTargets=5
+=======
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=1053
+editor.fx.0.y=787
+height=871
+package.numDependencies=1
+package.numTargets=6
+>>>>>>> 52a108f931e42b5de14703e7efb40c63a49b8adf
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
@@ -57,13 +72,28 @@ target4.width=80
 target4.x=0
 target4.y=0
 target5.height=50
-target5.name=human
+target5.name=tarou
 target5.showInterface=false
 target5.type=ClassTarget
 target5.width=80
 target5.x=0
 target5.y=0
+<<<<<<< HEAD
 version=3.0.0
 width=974
 xPosition=953
 yPosition=0
+=======
+target6.height=50
+target6.name=human
+target6.showInterface=false
+target6.type=ClassTarget
+target6.width=80
+target6.x=0
+target6.y=0
+version=3.0.0
+width=974
+world.lastInstantiated=cafe
+xPosition=25
+yPosition=50
+>>>>>>> 52a108f931e42b5de14703e7efb40c63a49b8adf
