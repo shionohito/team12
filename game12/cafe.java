@@ -17,6 +17,6 @@ public class cafe extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(600, 500, 1); 
-        addObject( new tarou(), 100, 100 );
+        addObject( new human(), 300, 200 );
     }
 }

@@ -3,21 +3,28 @@ class.cafe.image=cafe.jpg
 class.classroom.image=\u6559\u5BA4\u306E\u524D\u306E\u65B9\uFF08\u591C\u30FB\u7167\u660EOFF\uFF09.jpg
 class.human.image=person.png
 class.librarry.image=\u56F3\u66F8\u5BA4\uFF08\u591C\u30FB\u7167\u660EOFF\uFF09.jpg
-class.tarou.image=man01.png
 class.teacher1.image=teacher-1.png
 dependency1.from=cafe
-dependency1.to=tarou
+dependency1.to=human
 dependency1.type=UsesDependency
 dependency2.from=MyWorld
-dependency2.to=tarou
+dependency2.to=human
 dependency2.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
 height=693
+=======
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=860
+editor.fx.0.y=143
+height=1047
+>>>>>>> c15adc1e8d85734edfdacb9397f6fa252f897a67
 package.numDependencies=2
-package.numTargets=7
+package.numTargets=6
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
@@ -61,28 +68,25 @@ target4.width=80
 target4.x=0
 target4.y=0
 target5.height=50
-target5.name=tarou
+target5.name=human
 target5.showInterface=false
 target5.type=ClassTarget
 target5.width=80
 target5.x=0
 target5.y=0
 target6.height=50
-target6.name=human
+target6.name=MyWorld
 target6.showInterface=false
 target6.type=ClassTarget
 target6.width=80
 target6.x=0
 target6.y=0
-target7.height=50
-target7.name=MyWorld
-target7.showInterface=false
-target7.type=ClassTarget
-target7.width=80
-target7.x=0
-target7.y=0
 version=3.0.0
 width=974
 world.lastInstantiated=MyWorld
+<<<<<<< HEAD
 xPosition=0
+=======
+xPosition=953
+>>>>>>> c15adc1e8d85734edfdacb9397f6fa252f897a67
 yPosition=0
