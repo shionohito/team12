@@ -10,11 +10,19 @@ dependency1.type=UsesDependency
 dependency2.from=MyWorld
 dependency2.to=human
 dependency2.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=739
 editor.fx.0.width=816
 editor.fx.0.x=685
 editor.fx.0.y=164
 height=1047
+=======
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+height=841
+>>>>>>> 714d1d8edc2319f1d86204fe5444c9f2ac28da0a
 package.numDependencies=2
 package.numTargets=6
 project.charset=UTF-8
@@ -76,5 +84,5 @@ target6.y=0
 version=3.0.0
 width=974
 world.lastInstantiated=MyWorld
-xPosition=953
-yPosition=0
+xPosition=307
+yPosition=66
