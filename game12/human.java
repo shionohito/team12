@@ -14,7 +14,7 @@ public class human extends Actor
      */
     public void act() 
     {
-        
+     getImage().scale( 50, 100 );
         if( Greenfoot.isKeyDown( "d" ) ){
         setRotation(0);
         move(3);
