@@ -14,6 +14,7 @@ public class teacher1 extends Actor
      */
     public void act() 
     {
+        getImage().scale( 60, 100 );
         // Add your action code here.
     }    
 }
