@@ -16,13 +16,29 @@ dependency3.type=UsesDependency
 dependency4.from=human
 dependency4.to=librarry
 dependency4.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
 height=1047
+=======
+editor.fx.0.height=739
+editor.fx.0.width=816
+<<<<<<< HEAD
+editor.fx.0.x=151
+editor.fx.0.y=197
+height=1047
+package.numDependencies=1
+package.numTargets=6
+=======
+editor.fx.0.x=981
+editor.fx.0.y=52
+height=1056
+>>>>>>> 210586d4a7562c35c140d4636a9342213d28c0c3
 package.numDependencies=4
 package.numTargets=5
+>>>>>>> 9e12c74c4c12ad02b1e25b79837d3f5ff1143040
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
