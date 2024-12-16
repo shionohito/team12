@@ -23,6 +23,11 @@ public class human extends Actor
         setRotation(0);
         move(-3);
     }
+    if(Greenfoot.isKeyDown("m")){
+        Greenfoot.setWorld(new classroom());
+    
+    }else if (Greenfoot.isKeyDown("l")){
+        Greenfoot.setWorld(new librarry());    }
 }
 }
 
