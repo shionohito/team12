@@ -19,11 +19,10 @@ public class cafe extends World
 
         super(600, 500, 1); 
         addObject( new human(), 300, 420 );
-<<<<<<< HEAD
+
         addObject( new teacher1(), 100, 420 );
         getBackground().scale( 600, 500 );
-=======
+
         getBackground().scale(getWidth(), getHeight() );
->>>>>>> b08f5a73b2e63c98d1eea47c8c1574b07bcfc063
     }
 }
