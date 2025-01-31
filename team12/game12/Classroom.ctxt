@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Classroom
+comment1.params=
+comment1.target=Classroom()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=points
+comment3.target=void\ addScore(int)
+numComments=4
